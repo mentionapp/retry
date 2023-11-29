@@ -11,6 +11,12 @@ Retry is a PHP library for retrying operations with customizable backoff, jitter
 - Offline retry capability
 - Explicit serialization support
 
+## Install
+
+```
+composer require mention/retry
+```
+
 ## Synchronous API
 
 ``` php
